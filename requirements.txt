@@ -1,0 +1,9 @@
+tqdm
+jsonlines
+nltk
+wikipedia
+spacy
+pytorch-transformers==1.1.0
+transformers==2.8.0
+scikit-learn
+pytorch_pretrained_bert
